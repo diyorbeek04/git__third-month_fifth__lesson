@@ -862,7 +862,7 @@
     width: 208px;
     height: 60px;
     margin-top: 163px;
-    margin-left: 631px;
+    margin-left: 629px;
     border: 1px solid #CEB3CB;
 }
 .box__nine button{
@@ -875,13 +875,171 @@
     width: 179px;
     height: 60px;
     margin-top: 163px;
-    margin-left: 839px;
+    margin-left: 837px;
     border: none;
     cursor: pointer;
 }
-.footer{
+.box__ten{
     width: 1440px;
-    height: 350px;
-    opacity: 150%;
+    height: 213px;
     margin: 0px auto;
+    background: #D6BBD3;
+    /* position: relative; */
+    display: flex;
+    gap: 179px;
+    justify-content: center;
+}
+.box__ten .box__box-one{
+    width: 190px;
+    height: 155px;
+    /* border: 1px solid; */
+    justify-content: center;
+    margin-top: 46px;
+
+}
+.box__ten .box__box-one img{
+    width: 95px;
+    height: 95px;
+    justify-content: center;
+    display: flex;
+    margin-left: 47px;
+
+}
+.box__ten .box__box-one h1{
+    font-size: 22px;
+    line-height: 30px;
+    text-align: center;
+    color: #FFFFFF;
+    font-family: 'cormorant regular';
+
+}
+.box__ten .box__box-one p{
+    font-size: 16px;
+    line-height: 30px;
+    text-align: center;
+    color: #FFFFFF;
+    font-family: 'roboto regular';
+}
+.box__eleven{
+    width: 1440px;
+    height: 137px;
+    background: #C9ADC6;
+    margin: 0px auto;
+    position: relative;
+}
+.box__eleven img{
+    position: absolute;
+    margin-top: 40px;
+    margin-left: 113px;
+
+}
+.box__eleven .header__list{
+    width: 357px;
+    height: 30px;
+    display: flex;
+    gap: 40px;
+    margin: 50px auto 40px 531px;
+    position: absolute;
+}
+.box__eleven .header__list li{
+    list-style: none;
+    color: #fff;
+}
+.box__eleven .header__list li a{
+    text-decoration: none;
+    font-family: 'cormorant regular';
+    color: #fff;
+}
+.box__eleven .one{
+    position: absolute;
+    margin-top: 48px;
+    margin-left: 1190px;
+}
+.box__eleven .two{
+    position: absolute;
+    font-size: 12px;
+    line-height: 20px;
+    color: #FFFFFF;
+    padding-top: 112px;
+    padding-left: 113px;
+    font-family: 'roboto regular';
+}
+.box__eleven .three{
+    position: absolute;
+    font-size: 12px;
+    line-height: 20px;
+    color: #FFFFFF;
+    padding-top: 112px;
+    padding-left: 174px;
+    font-family: 'roboto regular';
+}
+.box__eleven .four{
+    position: absolute;
+    font-size: 12px;
+    line-height: 20px;
+    color: #FFFFFF;
+    padding-top: 112px;
+    padding-left: 226px;
+    font-family: 'roboto regular';
+}
+.box__eleven .five{
+    position: absolute;
+    font-size: 12px;
+    line-height: 20px;
+    color: #FFFFFF;
+    padding-top: 112px;
+    padding-left: 278px;
+    font-family: 'roboto regular';
+}
+.box__eleven .six{
+    position: absolute;
+    font-size: 12px;
+    line-height: 20px;
+    color: #FFFFFF;
+    padding-top: 112px;
+    padding-left: 342px;
+    font-family: 'roboto regular';
+}
+.box__eleven .seven{
+    position: absolute;
+    font-size: 12px;
+    line-height: 20px;
+    color: #FFFFFF;
+    padding-top: 112px;
+    padding-left: 413px;
+    font-family: 'roboto regular';
+}
+.box__eleven .eight{
+    position: absolute;
+    font-size: 12px;
+    line-height: 20px;
+    color: #FFFFFF;
+    padding-top: 112px;
+    padding-left: 474px;
+    font-family: 'roboto regular';
+}
+.box__eleven .nine{
+    position: absolute;
+    font-size: 12px;
+    line-height: 20px;
+    color: #FFFFFF;
+    padding-top: 112px;
+    padding-left: 530px;
+    font-family: 'roboto regular';
+}
+.box__eleven .ten{
+    position: absolute;
+    font-size: 12px;
+    line-height: 20px;
+    color: #FFFFFF;
+    padding-top: 112px;
+    padding-left: 611px;
+    font-family: 'roboto regular';
+}
+.box__eleven .eleven{
+    width: 33px;
+    height: 30px;
+    position: absolute;
+    margin-top: 107px;
+    margin-left: 1295px;
 }
